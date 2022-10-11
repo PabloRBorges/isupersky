@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 - [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
 - [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablorborges&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Pablo's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pablorborges&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
